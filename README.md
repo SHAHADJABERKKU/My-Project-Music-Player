@@ -1,7 +1,7 @@
 # My-Project-Music-Player
 
-# Musicr - Redefine the Music Player
-##MediaPlayer overview 
+
+## MediaPlayer overview 
 
 bookmark_border
 The Android multimedia framework includes support for playing variety of common media types,
