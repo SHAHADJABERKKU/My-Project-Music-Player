@@ -69,7 +69,7 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
 ### Submite by 
 
 
-* <i> <a href="https://github.com/SHAHADJABERKKU/My-Project-Music-Player/edit/master/README.md">Shahad Jaber</a></i>
+* <i> <a href="https://github.com/SHAHADJABERKKU/My-Project-Music-Player">Shahad Jaber</a></i>
 * <i>Shahad  Fahad</i>
 * <i>Amain Al-Qusi</i>
 * <i>Atyaf Abdh</i>
