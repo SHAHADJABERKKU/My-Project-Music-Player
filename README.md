@@ -68,7 +68,7 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
 
 ### Submite by 
 
-<style>
+<style type="css">
    #l{
       color:green;
    }
