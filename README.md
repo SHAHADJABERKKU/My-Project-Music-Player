@@ -68,11 +68,6 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
 
 ### Submite by 
 
-<style type="css">
-   #l{
-      color:green;
-   }
-</style>
 
 * <i style="color:DodgerBlue;" id ="l">Shahad Jaber</i>
 * <i>Shahad  Fahad</i>
