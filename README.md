@@ -73,7 +73,8 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
       color:green;
    }
 </style>
-* <i id ="l">Shahad Jaber</i>
+
+* <i style="color:DodgerBlue;" id ="l">Shahad Jaber</i>
 * <i>Shahad  Fahad</i>
 * <i>Amain Al-Qusi</i>
 * <i>Atyaf Abdh</i>
